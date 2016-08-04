@@ -15,7 +15,10 @@ search for other git tutorials and learn:
 learn what is github, and create an account on it
 
 
-3. create your first git project on github
+3. create your first git project "summer-coding" on github
 
-- create your first git project on github
+- create your first git project named "summer-coding" on github
 - send me your project git address
+
+
+4. complete 5 programming questions in the book and commit them to github
